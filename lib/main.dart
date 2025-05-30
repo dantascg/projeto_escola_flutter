@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'screens/coordenador_home_screen.dart';
+import 'routes.dart';
 
 void main() {
-  runApp(AppEscola());
+  runApp(SchoolApp());
 }
 
-class AppEscola extends StatelessWidget {
+class SchoolApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'App Escolar - Coordenador',
-      theme: ThemeData(primarySwatch: Colors.blue),
-      home: CoordenadorHomeScreen(),
+      title: 'Escola App',
+      initialRoute: '/',
+      onGenerateRoute: AppRoutes.generateRoute,
     );
   }
 }
