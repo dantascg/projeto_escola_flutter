@@ -80,7 +80,7 @@ lib/
 - **Tela Inicial de Aluno: KARINE EVELYN E YAN LUCAS**
 - **Tela de Cadastro de Alunos: VINICIUS MARQUES DOS SANTOS E CELSO VINICIUS SOUZA SILVA**
 - **Listar **Turmas** existentes: Pablo de Omena e Gabriel Torres Pinto**
-- **ANTONIO GABRIEL E JOAO GUILHERME** 
+- **Gerar PDF: ANTONIO GABRIEL E JOAO GUILHERME** (Branch: antonio_e_guilherme) 
 - **JOAO VICTOR AMORIM E LEONARDO DANTAS**
 
 
